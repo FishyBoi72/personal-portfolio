@@ -95,7 +95,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    text-align: left;
+    text-align: right;
 }
 
 .content-section2 .text {
@@ -107,7 +107,7 @@ nav {
 
 .content-section2 .image {
     flex: 1;
-    text-align: right;
+    text-align: left;
     padding: 20px;
 }
 
